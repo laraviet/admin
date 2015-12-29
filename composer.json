@@ -1,12 +1,12 @@
 {
-    "name": "pingpong/admin",
+    "name": "laraviet/admin",
     "description": "Laravel Admin Package",
-    "keywords": ["pingpong", "admin", "laravel", "administrator"],
+    "keywords": ["laraviet", "admin", "laravel", "administrator"],
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Pingpong Labs",
-            "email": "pingpong.labs@gmail.com"
+            "name": "Laraviet",
+            "email": "thanhcttsp@gmail.com"
         }
     ],
     "require": {
@@ -26,7 +26,7 @@
         "classmap": [
         ],
         "psr-4": {
-            "Pingpong\\Admin\\": "src/Pingpong/Admin"
+            "Laraviet\\Admin\\": "src/Laraviet/Admin"
         }
     },
     "minimum-stability": "stable"

@@ -37,7 +37,7 @@
 		<div class="small-box bg-green">
 			<div class="inner">
 				<h3>
-					{!! Pingpong\Admin\Entities\Article::onlyPost()->count() !!}
+					{!! Laraviet\Admin\Entities\Article::onlyPost()->count() !!}
 				</h3>
 
 				<p>
